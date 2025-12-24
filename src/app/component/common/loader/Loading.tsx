@@ -5,7 +5,7 @@ const Loading = () => {
   return (
     <div className=" mt-20">
       <ImageShow
-        src="/media/progress.gif"
+        src="berger/media/progress.gif"
         alt="Loading..."
         className="w-40 h-40 mx-auto"
       />

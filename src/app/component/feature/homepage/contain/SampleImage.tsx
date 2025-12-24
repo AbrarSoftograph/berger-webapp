@@ -6,12 +6,12 @@ interface SampleImageProps {
 }
 const SampleImage = ({ handleSelectedImag }: SampleImageProps) => {
   const images = [
-    "/media/room-7.avif",
-    "/media/room-8.avif",
-    "/media/room-9.avif",
-    "/media/room-5.jpg",
-    "/media/room-6.jpg",
-    "/media/room-1.jpg",
+    "berger/media/room-7.avif",
+    "berger/media/room-8.avif",
+    "berger/media/room-9.avif",
+    "berger/media/room-5.jpg",
+    "berger/media/room-6.jpg",
+    "berger/media/room-1.jpg",
   ];
   return (
     <div>
