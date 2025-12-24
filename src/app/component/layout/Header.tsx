@@ -38,7 +38,7 @@ const Header = () => {
         </div>
         <Link href="/" className="">
           <ImageShow
-            src="berger/media/logo/bergerlogo.png"
+            src="/media/logo/bergerlogo.png"
             alt="Berger Logo"
             className="w-24 h-16 object-contain"
           />
