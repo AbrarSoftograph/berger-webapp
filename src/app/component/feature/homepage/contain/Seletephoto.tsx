@@ -25,7 +25,7 @@ const Seletephoto = ({ setScreen, handleOwnImage }: SeletephotoProps) => {
         >
           <figure>
             <ImageShow
-              src="/media/room-1.jpg"
+              src="media/room-1.jpg"
               alt="Room Image"
               className="w-full h-60 object-cover"
             />
@@ -58,7 +58,7 @@ const Seletephoto = ({ setScreen, handleOwnImage }: SeletephotoProps) => {
         >
           <figure className=" relative">
             <ImageShow
-              src="/media/upload-file.png"
+              src="media/upload-file.png"
               alt="Room Image"
               className="w-full h-60 object-contain p-16 bg-black/5"
             />
